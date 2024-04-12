@@ -1,3 +1,0 @@
-/home/iammruni/Documents/dev/compiler-proj/graphene/build/CMakeFiles/graphene.dir
-/home/iammruni/Documents/dev/compiler-proj/graphene/build/CMakeFiles/edit_cache.dir
-/home/iammruni/Documents/dev/compiler-proj/graphene/build/CMakeFiles/rebuild_cache.dir
